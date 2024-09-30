@@ -1,1 +1,1 @@
-web: python setagem-bot.py
+worker: python setagem-bot
